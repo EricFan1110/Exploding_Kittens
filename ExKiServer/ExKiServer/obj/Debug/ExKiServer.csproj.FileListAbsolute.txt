@@ -1,0 +1,6 @@
+c:\users\eric fan\documents\visual studio 2013\Projects\ExKiServer\ExKiServer\bin\Debug\ExKiServer.exe.config
+c:\users\eric fan\documents\visual studio 2013\Projects\ExKiServer\ExKiServer\bin\Debug\ExKiServer.exe
+c:\users\eric fan\documents\visual studio 2013\Projects\ExKiServer\ExKiServer\bin\Debug\ExKiServer.pdb
+c:\users\eric fan\documents\visual studio 2013\Projects\ExKiServer\ExKiServer\obj\Debug\ExKiServer.exe
+c:\users\eric fan\documents\visual studio 2013\Projects\ExKiServer\ExKiServer\obj\Debug\ExKiServer.pdb
+c:\users\eric fan\documents\visual studio 2013\Projects\ExKiServer\ExKiServer\obj\Debug\ExKiServer.csprojResolveAssemblyReference.cache
